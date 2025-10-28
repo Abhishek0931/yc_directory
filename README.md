@@ -9,6 +9,8 @@
 
 <h3 align="center">Startup Directory Platform</h3>
 
+[Live Demo of the YC Directory Project](https://yc-directory-liart-eight.vercel.app)
+
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
